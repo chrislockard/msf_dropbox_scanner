@@ -14,7 +14,7 @@ class Metasploit3 < Msf::Auxiliary
     super(
       'Name'        => 'Dropbox scanner',
       'Description' => 'This module scans for dropbox listeners on default TCP and UDP ports', 
-      'Author'      => 'Dagorim',
+      'Author'      => 'Dagorim - penetrate.io',
       'License'     => MSF_LICENSE
     )
 
